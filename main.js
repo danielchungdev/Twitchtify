@@ -1,4 +1,4 @@
-const TwitchBot = require('./Modules/bot')
+const TwitchBot = require('./Modules/TwitchBot')
 
 new TwitchBot.TwitchBot()
 
