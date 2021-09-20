@@ -21,6 +21,4 @@ class TwitchBot{
     }
 }
 
-
-
 module.exports = {TwitchBot}
